@@ -29,6 +29,13 @@ p {
   margin:2px;
 }
 
+.contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 .droite {
   float:right;
   margin:2px;
