@@ -36,6 +36,17 @@ p {
   text-align: center;
 }
 
+.drive {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.drive b + b {
+  margin-left: 50px;
+}
+
 .droite {
   float:right;
   margin:2px;
